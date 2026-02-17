@@ -1,0 +1,179 @@
+Day-1
+-----------
+Problem Solving Techniques
+-----------
+Algorithm
+
+1. take suger milk water tea powder
+2. boil water and milk
+3. 3-4 min wait
+4. serve
+
+
+
+WAP to add a numbers
+1. Start
+2. take 2 number
+3. add 2 number
+4. display addition
+5. Stop
+
+---------------
+1. Start
+2. ask how many numbers to be added
+3. take n
+2. take number upto n 
+3. add n number
+4. display addition
+5. Stop
+----------------------------------
+
+Properties
+
+1. input
+2. output
+3. finite
+4. effective
+5. definiteness
+-----------
+Flowcharts
+-----------
+Introduction to Java
+----------------------
+Open Source
+
+WORA - write once run anywhere
+
+implemented in - c , c++
+
+
+1.core Java
+J2SE
+
+2. adv Java
+J2EE
+J2ME
+
+--------------------
+JDK
+JRE
+JVM
+--------------------
+Features
+
+Java is a case sensitive.
+Simple
+Platform independent
+OOP - object oriented
+	- class 
+	- object 
+	- inheritance
+	- polymorphism
+	- encapsulation
+	- abstraction
+Multithreded
+High performance	
+Secure
+Dynmaic
+
+-----------	
+java 1.8
+java 11
+java 15
+java 17 
+java 21
+------------------
+
+single line comment //
+multi line /*  */
+-----------------------
+
+compile - javac <fileName with ext>
+run - java <className without ext>
+
+
+----------
+
+class five elements :
+
+1. varibales
+2. methods
+3. constructors
+4. instance block
+5. static block
+
+-----------------------
+
+token : 
+a smallest part
+
+
+identifiers: 
+
+demo
+main
+args
+demo1
+
+variable identifiers : 
+
+1. should not start with number
+	String 2args;
+
+2. only start with alphabets or _ or $
+
+@args - error
+
+3. use camel casing for mor than 2 words in variable.
+
+4. class name should always start with capital letter.
+
+5. file name should be same as a class name which is having a main()
+
+6. method start with small letters, camel casing
+
+7. no duplicate
+
+-------------------------------------------------------
+DataTypes
+
+int a; // declaration
+a=10;  // defination
+
+
+int a1 = 10;
+
+int - data type
+a1 - var name / idenifier
+= - assignment
+10 - value , literal
+; - terminator
+
+
+literal
+
+
+String s = "Vipul"
+char c = 'c'
+float f = 10.0f;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-----------
+
