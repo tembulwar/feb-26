@@ -63,13 +63,6 @@ class ConstrDemo{
 
 
 
-
-
-
-
-
-
-
 		/*
 		s1.study(); //Doing Study... 
 		s1.study("abc"); //Doing Study... abc
